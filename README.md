@@ -8,12 +8,18 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pknb213&title=MultiLanguage,Commits,Repositories&theme=juicyfresh)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pknb213&show_icons=true&count_private=true) // &hide=stars,commits,prs,issues,contribs
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pknb213&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=html,css,scss)](https://github.com/pknb213)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pknb213&show_icons=true&count_private=true&theme=gruvbox&hide=prs,issues,contribs)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pknb213&show_icons=true&hide_border=false&icon_color=004386&layout=compact&theme=gruvbox&hide=html,css,scss)](https://github.com/pknb213)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=2021-Learning-Kotlin)](https://github.com/pknb213/2021-Learning-Kotlin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=2021-Learning-Kotlin&theme=gruvbox)](https://github.com/pknb213/2021-Learning-Kotlin)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=KakaoTalk&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Riot Games&logoColor=ffffff"/></a>
+
+Kotlin
+Python
 
 # Github Profile
 
