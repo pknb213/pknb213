@@ -1,8 +1,6 @@
-# Hi there 👋
+##  Hi there 👋 수정 중
 
-## 수정 중
-
-<img src="https://github.com/pknb213/pknb213/blob/main/title.jpg"> //width="300%" height="500px"
+<img src="https://github.com/pknb213/pknb213/blob/main/title.jpg">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpknb213&count_bg=%2325B27B&title_bg=%231B5E3D&icon=github.svg&icon_color=%23FFFFFF&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
