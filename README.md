@@ -14,9 +14,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=2021-Learning-Kotlin&theme=gruvbox)](https://github.com/pknb213/2021-Learning-Kotlin)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
+
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=KakaoTalk&logoColor=ffffff"/></a>
+
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Riot Games&logoColor=ffffff"/></a>
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Riot Games&logoColor=ffffff&logoWidth=10" height="100px" /></a> //width="200px"
 
 Kotlin
 Python
