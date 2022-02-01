@@ -15,8 +15,6 @@
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
 
-[Github Profile 28f971cd2ce84c138c21170b7f4bfe64.md](https://github.com/pknb213/pknb213/files/7976575/Github.Profile.28f971cd2ce84c138c21170b7f4bfe64.md)
-
 # Github Profile
 
 # 가나다라
