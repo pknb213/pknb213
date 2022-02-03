@@ -36,6 +36,7 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=2019-IndyCARE-React-ver&theme=gruvbox)](https://github.com/pknb213/2019-IndyCARE-React-ver)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=Python-Shared-Memory-Script&theme=gruvbox)](https://github.com/pknb213/Python-Shared-Memory-Script)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=Python-Shared-Memory-Script&theme=gruvbox)](https://github.com/pknb213/Python-Shared-Memory-Script)
   
   Kotlin
   Python
