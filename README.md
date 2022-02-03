@@ -1,5 +1,3 @@
-##  Hi there 👋 수정 중
-
 <div align="center">
 
   <img src="https://github.com/pknb213/pknb213/blob/main/title.jpg">
