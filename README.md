@@ -35,18 +35,6 @@
   [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pknb213&show_icons=true&hide_border=false&icon_color=004386&layout=compact&theme=gruvbox&hide=html,css,scss)](https://github.com/pknb213)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pknb213&show_icons=true&count_private=true&theme=gruvbox&hide=prs,issues,contribs&width=100px)
-
-  # 👍 My Repo 👍
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=2021-Reactive-Kotlin-Server&theme=gruvbox)](https://github.com/pknb213/2021-Reactive-Kotlin-Server)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=Web_Crawler&theme=gruvbox)](https://github.com/pknb213/Web_Crawler)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=2019-IndyCARE-React-ver&theme=gruvbox)](https://github.com/pknb213/2019-IndyCARE-React-ver)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=Python-Shared-Memory-Script&theme=gruvbox)](https://github.com/pknb213/Python-Shared-Memory-Script)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=pknb213&repo=Python-Shared-Memory-Script&theme=gruvbox)](https://github.com/pknb213/Python-Shared-Memory-Script)
  
 </div>
 <!--
