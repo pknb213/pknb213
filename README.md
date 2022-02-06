@@ -24,11 +24,11 @@
  <img src="https://img.shields.io/badge/Reactor-brightgreen?style=flat&logo=React&logoColor=ffffff" height=30px/>
  </br>
   
- <img src="https://img.shields.io/badge/Elastic Stack-yellow?style=flat&logo=Elastic Stack&logoColor=ffffff" height=30px/>
- <img src="https://img.shields.io/badge/Kafka-blueviolet?style=flat&logo=Apache Kafka&logoColor=ffffff" height=30px/>
- <img src="https://img.shields.io/badge/Spark-important?style=flat&logo=Apache Spark&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/Elastic Stack-yellow?style=flat&logo=ElasticStack&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/Kafka-blueviolet?style=flat&logo=ApacheKafka&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/Spark-important?style=flat&logo=ApacheSpark&logoColor=ffffff" height=30px/>
  <img src="https://img.shields.io/badge/HDFS-green?style=flat&logo=ApacheHadoop&logoColor=ffffff" height=30px/>
- <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=Amazon AWS&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/AWS-orange?style=flat&logo=AmazonAWS&logoColor=ffffff" height=30px/>
   
   # 🤔 Github 🤔
 
