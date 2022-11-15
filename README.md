@@ -32,7 +32,7 @@
   
   # 🤔 Github 🤔
 
-  [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pknb213&show_icons=true&hide_border=false&icon_color=004386&layout=compact&theme=gruvbox&hide=html,css,scss,js,jupyter notebook)](https://github.com/pknb213)
+  [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pknb213&show_icons=true&hide_border=false&icon_color=004386&layout=compact&theme=gruvbox&hide=html,css,scss,js,jupyternotebook)](https://github.com/pknb213)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pknb213&show_icons=true&count_private=true&theme=gruvbox&hide=prs,issues,contribs&width=100px)
  
