@@ -3,7 +3,7 @@
   <img src="https://github.com/pknb213/pknb213/blob/main/new1.png">
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpknb213&count_bg=%2325B27B&title_bg=%231B5E3D&icon=github.svg&icon_color=%23FFFFFF&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  # 👉 Now Profile Updating ... 👈
   # 👉 About me 👈
 
   <a href="https://www.instagram.com/cheonyj" target="_blank"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=ffffff" height=50px/></a>
