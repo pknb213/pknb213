@@ -16,10 +16,13 @@
  </br>
  </br>
 
- <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/Python-red?style=flat&logo=Python&logoColor=ffffff" height=30px/>
  <img src="https://img.shields.io/badge/Kotlin-blueviolet?style=flat&logo=Kotlin&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=Typescript&logoColor=ffffff" height=30px/>
+ </br>
  <img src="https://img.shields.io/badge/FastAPI-success?style=flat&logo=FastAPI&logoColor=ffffff" height=30px/>
- <img src="https://img.shields.io/badge/Mongo-success?style=flat&logo=MongoDB&logoColor=ffffff" height=30px/>   
+ <img src="https://img.shields.io/badge/Flask-success?style=flat&logo=Flask&logoColor=ffffff" height=30px/>
+ <img src="https://img.shields.io/badge/SpringWebflux-success?style=flat&logo=Spring&logoColor=ffffff" height=30px/>   
  <img src="https://img.shields.io/badge/Reactor-brightgreen?style=flat&logo=React&logoColor=ffffff" height=30px/>
  </br>
   
