@@ -1,77 +1,77 @@
 <p align="center">
-  <img src="./new1.png" width="900" alt="Cheon Youngjo — 바다 배경과 원형 프로필 사진">
+  <img src="./new1.png" width="900" alt="Cheon Youngjo — ocean banner with a circular profile photo">
 </p>
 
-<h1 align="center">안녕하세요, 천영조입니다.</h1>
+<h1 align="center">Hi, I'm Youngjo.</h1>
 
 <p align="center">
   <strong>Backend & Data Systems Engineer</strong><br>
-  궁금한 것은 직접 만들어 보고, 만든 것은 더 단단하게 다듬습니다.
+  I follow my curiosity by building things, then making them more reliable.
 </p>
 
 <p align="center">
-  <a href="https://pknb213.github.io/">포트폴리오</a> ·
-  <a href="https://pknb213.github.io/#experience">업무 경험</a> ·
+  <a href="https://pknb213.github.io/">Portfolio</a> ·
+  <a href="https://pknb213.github.io/#experience">Work experience</a> ·
   <a href="https://www.instagram.com/cheonyj">Instagram</a> ·
-  <a href="mailto:pknb213@naver.com">이메일</a>
+  <a href="mailto:pknb213@naver.com">Email</a>
 </p>
 
 ## About me
 
-데이터 수집부터 API, 비동기 작업, 검색 인덱스까지 연결하는 시스템을 만듭니다.<br>
-Python · Kotlin · TypeScript를 중심으로, **데이터의 정확성과 실패 이후의 복구까지 설명할 수 있는 설계**를 지향합니다.
+I build systems that connect data collection, APIs, background jobs, and search indexes.<br>
+Working mainly with Python, Kotlin, and TypeScript, I care about **designs that make data correctness and recovery from failure explicit**.
 
-### 이런 일을 합니다
+### What I work on
 
-- **Backend systems** — API와 worker의 책임을 나누고, 비동기 작업의 상태·재시도·중복 처리를 설계합니다.
-- **Data platforms** — 수집, 배치·스트림 처리, 저장, 운영 관측으로 이어지는 데이터 흐름을 구축합니다.
-- **Retrieval systems** — 원본 데이터와 검색 인덱스를 분리하고, 인덱스 재구축·증분 동기화·검색 품질을 검증합니다.
+- **Backend systems** — Separate API and worker responsibilities, with explicit job states, retries, and duplicate handling.
+- **Data platforms** — Connect ingestion, batch and stream processing, storage, and operational observability.
+- **Retrieval systems** — Keep source data separate from search indexes, and verify rebuilds, incremental updates, and retrieval quality.
 
-## 조금 더 깊이, 프로젝트 이야기
+## A closer look at my projects
 
-업무 시스템은 공개 가능한 설계와 검증 근거를 포트폴리오에 정리했습니다.
+My portfolio documents the architecture and verification evidence I can share publicly from my professional work.
 
-### [cms-rag · 재생성 가능한 검색 인덱스](https://pknb213.github.io/#cms-rag)
+### [cms-rag · Rebuildable search indexes](https://pknb213.github.io/#cms-rag)
 
-원본 DB를 기준 데이터로 유지하고, 벡터 저장소를 다시 만들 수 있는 검색용 인덱스로 분리했습니다. 별도 인덱스를 구축·검증한 뒤 교체하고, 변경 이벤트는 증분 반영합니다.
+I kept the source database as the source of truth and treated the vector store as a derived search index. A replacement index is built and verified before the switch, while change events are applied incrementally.
 
-**23,601개 문항의 원본·인덱스 건수 일치** · **2개 벡터 저장소 어댑터** · **58개 테스트 함수**
+**23,601 items — matching source and index counts** · **2 vector store adapters** · **58 test functions**
 
 `Python` `FastAPI` `BGE-M3` `pgvector` `Qdrant`
 
-### [cms-api · 비동기 작업과 데이터 일관성](https://pknb213.github.io/#cms-api)
+### [cms-api · Background jobs and data consistency](https://pknb213.github.io/#cms-api)
 
-API는 작업을 기록하고 ID를 반환하며, worker는 실행과 상태 전이를 맡습니다. 사용자 작업 상태와 내부 검색 인덱스 갱신 이벤트를 분리해 실패·재시도 경계를 명확하게 했습니다.
+The API records a job and returns its ID; the worker owns execution and state transitions. I separated user-facing job states from internal index-update events to give each a clear failure and retry boundary.
 
-**14개 API 경로** · **9개 DB 마이그레이션** · **19개 테스트 함수**
+**14 API routes** · **9 database migrations** · **19 test functions**
 
 `Python` `FastAPI` `SQS` `SQLAlchemy` `Alembic`
 
-> 수치는 2026년 7월 코드 스냅샷과 개발 환경 검증 기준입니다. 테스트 함수 수는 실행 통과율이나 커버리지를 뜻하지 않으며, 문항 수는 운영 트래픽 지표가 아닙니다. [측정 근거와 범위](https://pknb213.github.io/#evidence)
+> Figures reflect July 2026 code snapshots and development-environment checks. Test function counts are not pass rates or coverage figures; item counts are not production traffic metrics. [Evidence and measurement scope](https://pknb213.github.io/#evidence)
 
-## 직접 만들며 쌓은 것들
+## Learning by building
 
-직접 구현하며 학습·실험한 공개 저장소입니다. 업무 프로젝트와 구분하고, 언어별 대표 저장소만 모았습니다.
+These public repositories are personal learning and experimentation projects, separate from my professional work. Here is one representative repository for each main server language.
 
-- **[Python-Projects](https://github.com/pknb213/Python-Projects)** — REST API, 배치 스케줄링, 캐시, 크롤러
+- **[Python-Projects](https://github.com/pknb213/Python-Projects)** — REST APIs, batch scheduling, caching, and crawlers
   - Flask · APScheduler · Redis · SQLAlchemy
-- **[Kotlin-SpringBoot-Servers](https://github.com/pknb213/Kotlin-SpringBoot-Servers)** — 비동기 API, 인증, 반응형 데이터 접근
+- **[Kotlin-SpringBoot-Servers](https://github.com/pknb213/Kotlin-SpringBoot-Servers)** — Async APIs, authentication, and reactive data access
   - Spring WebFlux · Coroutines · R2DBC · Kafka
-- **[TypeScript-Servers](https://github.com/pknb213/TypeScript-Servers)** — REST·GraphQL·WebSocket 서버, 인증, 메시징
+- **[TypeScript-Servers](https://github.com/pknb213/TypeScript-Servers)** — REST, GraphQL, and WebSocket servers, authentication, and messaging
   - NestJS · TypeORM · Redis · Kafka
 
-**AI 학습 기록** — [LangChain-Challenge](https://github.com/pknb213/LangChain-Challenge): Nomad Coder 강의 기반으로 문서 검색, 메모리, 도구 호출과 Streamlit 앱을 실습했습니다.
+**AI learning notes** — [LangChain-Challenge](https://github.com/pknb213/LangChain-Challenge): Nomad Coder coursework exploring document retrieval, memory, tool calling, and Streamlit apps.
 
-[전체 공개 프로젝트와 구현 범위 보기](https://pknb213.github.io/#open-source)
+[Explore more public projects and what they implement](https://pknb213.github.io/#open-source)
 
-## 코드를 대하는 마음
+## How I approach my work
 
-- 원본 데이터와 파생 데이터를 구분하고, 다시 만들 수 있는 경로를 남깁니다.
-- 정상 응답뿐 아니라 실패, 재시도, 상태 전이까지 시스템의 일부로 다룹니다.
-- 기술 목록보다 구현 범위, 측정 조건, 확인 가능한 근거로 설명합니다.
+- Distinguish source data from derived data, and leave a way to rebuild the latter.
+- Treat failures, retries, and state transitions as part of the system, not just the happy path.
+- Explain what I built, how I measured it, and what the evidence supports—not just the technology list.
 
 ---
 
-들러주셔서 감사합니다. 함께 만들고 싶은 것이 있다면 편하게 연락 주세요.<br>
-Backend · Data Platform · Retrieval 관련 기회와 기술 이야기도 환영합니다.<br>
+Thanks for stopping by. If there is something you would like to build together, I'd love to hear about it.<br>
+I'm open to opportunities and conversations around backend engineering, data platforms, and retrieval systems.<br>
 [pknb213@naver.com](mailto:pknb213@naver.com) · [Engineering portfolio](https://pknb213.github.io/)
